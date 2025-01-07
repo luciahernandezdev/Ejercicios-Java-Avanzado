@@ -4,14 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b87bd2a-f15a-4556-945a-5f9449295ea3" name="Changes" comment="" />
+    <list default="true" id="25883ef2-3b27-4900-b821-589cf4acf5ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entities/Empleado.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -26,53 +35,32 @@
   }
 }]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
+  "associatedIndex": 4
 }]]></component>
-  <component name="ProjectId" id="2rJ1LSu1wgRuLIy4SBggvniXXi3" />
+  <component name="ProjectId" id="2rJ1bqOJ5Lq0BAq3nX4kk4MHhit" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/lucia/OneDrive/Escritorio/bootcamp-java/Ejercicios-Java-Avanzado/Semana 2/EjerciciosDia6/Ejercicio1/Empleados/src/main/java/org/example/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/lucia/OneDrive/Escritorio/bootcamp-java/Ejercicios-Java-Avanzado/Semana 2/EjerciciosDia6/Ejercicio1/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
-      <setting name="path" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0b87bd2a-f15a-4556-945a-5f9449295ea3" name="Changes" comment="" />
-      <created>1736262312220</created>
+      <changelist id="25883ef2-3b27-4900-b821-589cf4acf5ca" name="Changes" comment="" />
+      <created>1736262440117</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1736262312220</updated>
+      <updated>1736262440117</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
